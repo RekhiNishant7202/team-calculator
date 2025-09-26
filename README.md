@@ -4,3 +4,7 @@
 - Advanced math (sqrt, power, percentage)
 - Simple command-line interface (CLI)
 
+-----------
+## Contributors
+- Nishant Rekhi
+
