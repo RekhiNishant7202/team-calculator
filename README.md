@@ -7,4 +7,6 @@
 -----------
 ## Contributors
 - Nishant Rekhi
+- Harshal Sonje
+
 
